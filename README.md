@@ -10,9 +10,9 @@ This project extracts, analyzes, and maps tweets related to mental health distre
 
 ## Running the Scripts
 
--**Task 1**: `python scripts/task1_data_extraction.py`
--**Task 2**: `python scripts/task2_sentiment_risk.py`
--**Task 3**: `python scripts/task3_geolocation_mapping.py`
+* **Task 1**: `python scripts/task1_data_extraction.py`
+* **Task 2**: `python scripts/task2_sentiment_risk.py`
+* **Task 3**: `python scripts/task3_geolocation_mapping.py`
 
 ## Notes
 
