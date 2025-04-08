@@ -1,0 +1,14 @@
+praw
+pandas
+nltk
+emoji
+regex
+requests>=2.32.3
+scikit-learn
+vaderSentiment
+matplotlib
+seaborn
+folium
+geopy
+spacy
+tqdm
